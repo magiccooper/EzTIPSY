@@ -1,0 +1,24 @@
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.exe
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.exe
+c:\users\admin\documents\visual studio 2013\Projects\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.pdb
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.exe.config
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.exe
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.pdb
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.exe
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\bin\Debug\CalculatorTrial.pdb
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.Form1.resources
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.MahaDevaFountain.resources
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\bin\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\Interop.WMPLib.dll
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\admin\Documents\GitHub\Ezy_Calculator\CalculatorTrial\CalculatorTrial\obj\Debug\CalculatorTrial.csproj.ResolveComReference.cache
